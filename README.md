@@ -1,10 +1,10 @@
 # Anita-kitchen-website
 A Portfolio Website For Anita's Kitchen
-#### A Website FOR ANITA KITCHEN, 5/07/2018
-#### By **FEISAL IBRAHIM**
-## Description
+## A Website FOR ANITA KITCHEN, 5/07/2018
+### By **FEISAL IBRAHIM**
+#### Description
 This is a website for ANITA KITCHEN. itis a detailed portfolio.
-## Technologies Used
+###Technologies Used
 I have used HTML tools,styled it with css rules advanced JavaScript tools with the jQuery library.
 ## Support and contact details
 In case you have Feedback.you can forward it on my email:addictivefazman@gmail.com,
@@ -18,7 +18,7 @@ Online Platforms,Fb https://www.facebook.com/addictivefazman,
 
 
 
-You can use the [editor on GitHub](https://github.com/feysal-Ibrahim/personal-website/edit/master/README.md) to maintain and preview the content for my website in Markdown files.
+You can use the [editor on GitHub]() to maintain and preview the content for my website in Markdown files.
 
 Whenever i commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in my site, from the content in myMarkdown files.
 
@@ -48,7 +48,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-my Pages site will use the layout and styles from the Jekyll theme you have selected in my [repository settings](https://github.com/feysal-Ibrahim/personal-website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+my Pages site will use the layout and styles from the Jekyll theme you have selected in my [repository settings](). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
