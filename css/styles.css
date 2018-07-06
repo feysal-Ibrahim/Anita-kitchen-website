@@ -1,0 +1,91 @@
+body{
+	font-style: italic;
+	font-family: sans-serif;
+}
+.container-fluid{
+text-align: center;
+background-image: url(../images/landing.jpg);
+background-size: cover;
+padding:90px;
+
+}
+.container-fluid p{
+	color: blue;
+	font-size: 30px;
+}
+.row{
+	padding-right: 70px;
+}
+#party{
+	color: red;
+}
+#happy{
+	padding-left: 100px;	
+	height: 200px;
+	padding: 40px;
+}
+#breakfast img{
+	height: 300px;
+}
+#lunch img{
+	height: 300px;
+}
+#lunch p{
+	text-align: center;
+}
+#dinner img{
+	height: 300px;
+}
+.row{
+	padding-left: 300px;
+}
+
+.container-fa{
+	background: url(../images/foodsBg.jpg);
+	padding: 90px;
+}
+.container-fa img{
+	padding: auto;
+	margin: auto;
+	border-style: solid;
+}
+.container-fa p{
+	color: red;
+	padding-left: 60px;
+}
+#btn4{
+	padding-left: 300px;
+}
+#btn3{
+	padding-left: 400px;
+}
+#btn2{
+	padding-left: 400px;
+}
+#btn1{
+	padding-left: 200px;
+}
+#btn {
+	color: blue;
+}
+#background{
+	background: url(../images/subscribe.jpg);
+	padding: 90px;
+	float: right;
+}
+#background p{
+	text-align: center;
+	color: red;
+}
+#inputfield{
+	padding-left: 300px;
+	float: right;
+}
+#subscribe{
+	float: right;
+}
+.footer{
+	background-color: orange;
+	padding: 90px;
+	text-align: center;
+}
