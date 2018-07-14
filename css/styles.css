@@ -14,56 +14,90 @@ padding:90px;
 	font-size: 30px;
 }
 .row{
-	padding-right: 70px;
+	   margin: 0;
+	   padding: 0;
+	 text-align: center;
+	background-color: white;
+}
 }
 #party{
 	color: red;
 }
 #happy{
-	padding-left: 100px;	
-	height: 200px;
+	   margin: 0;
+	   padding: 0;
+	 text-align: center;
+	background-color: white;
+	
 	padding: 40px;
 }
 #breakfast img{
-	height: 300px;
+	   margin: 0;
+	   padding: 0;
+	 text-align: center;
+	background-color: white;
+	
+	
 }
 #lunch img{
-	height: 300px;
+	   margin: 0;
+	   padding: 0;
+	 text-align: center;
+	background-color: white;
+	
 }
 #lunch p{
 	text-align: center;
 }
 #dinner img{
-	height: 300px;
+	   margin: 0;
+	   padding: 0;
+	 text-align: center;
+	background-color: white;
+	
 }
 .row{
-	padding-left: 300px;
+	   margin: 0;
+	   padding: 0;
+	 text-align: center;
+	background-color: white,
+	
 }
 
-.container-fa{
+.container-fu{
 	background: url(../images/foodsBg.jpg);
 	padding: 90px;
 }
-.container-fa img{
+.container-fu img{
 	padding: auto;
 	margin: auto;
 	border-style: solid;
 }
-.container-fa p{
+.container-fu p{
 	color: red;
-	padding-left: 60px;
+	   padding: 0;
+	 text-align: center;
+	background-color: white;
 }
 #btn4{
-	padding-left: 300px;
+	   padding: 0;
+	 text-align: center;
+	background-color: white;
 }
 #btn3{
-	padding-left: 400px;
+	   padding: 0;
+	 text-align: center;
+	background-color: white;
 }
 #btn2{
-	padding-left: 400px;
+	   padding: 0;
+	 text-align: center;
+	background-color: white;
 }
 #btn1{
-	padding-left: 200px;
+	   padding: 0;
+	 text-align: center;
+	background-color: white;
 }
 #btn {
 	color: blue;
@@ -78,14 +112,86 @@ padding:90px;
 	color: red;
 }
 #inputfield{
-	padding-left: 300px;
-	float: right;
+	
+	   padding: 0;
+	 text-align: center;
+	background-color: white;
 }
 #subscribe{
-	float: right;
+	   padding: 0;
+	 text-align: center;
+	background-color: white;
 }
 .footer{
 	background-color: orange;
 	padding: 90px;
 	text-align: center;
 }
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.8;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+.fa-skype {
+  background: #00aff0;
+  color: white;
+}
+.container-fa {
+  background-color: yellow;
+  display: inline;
+  border-radius: solid green;
+  letter-spacing: 1px;
+  text-align: center;
+
+}
+p{
+  text-align: center;
+@media screen and (min-width: 480px) and (max-width: 767px) {
+    body {
+        background-color: black;
+        color: white;
+    }
+}
+@media screen and (min-width: 768px) {
+  body {
+    background-color: yellowgreen;
+  }
+}
+  
