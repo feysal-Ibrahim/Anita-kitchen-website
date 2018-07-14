@@ -75,19 +75,29 @@ padding:90px;
 }
 .container-fa p{
 	color: red;
-	padding-left: 60px;
+	   padding: 0;
+	 text-align: center;
+	background-color: white;
 }
 #btn4{
-	padding-left: 300px;
+	   padding: 0;
+	 text-align: center;
+	background-color: white;
 }
 #btn3{
-	padding-left: 400px;
+	   padding: 0;
+	 text-align: center;
+	background-color: white;
 }
 #btn2{
-	padding-left: 400px;
+	   padding: 0;
+	 text-align: center;
+	background-color: white;
 }
 #btn1{
-	padding-left: 200px;
+	   padding: 0;
+	 text-align: center;
+	background-color: white;
 }
 #btn {
 	color: blue;
@@ -102,11 +112,15 @@ padding:90px;
 	color: red;
 }
 #inputfield{
-	padding-left: 300px;
-	float: right;
+	
+	   padding: 0;
+	 text-align: center;
+	background-color: white;
 }
 #subscribe{
-	float: right;
+	   padding: 0;
+	 text-align: center;
+	background-color: white;
 }
 .footer{
 	background-color: orange;
